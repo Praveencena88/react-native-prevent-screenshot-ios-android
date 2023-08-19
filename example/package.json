@@ -1,0 +1,56 @@
+{
+  "name": "react-native-prevent-screenshot-ios-android",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "pods": "pod-install --quiet"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-safe-area-context": "^4.7.1",
+    "react-native-screens": "^3.24.0",
+    "react-native-vector-icons": "^10.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "@babel/runtime": "^7.20.0",
+    "@react-native/eslint-config": "^0.72.2",
+    "@react-native/metro-config": "^0.72.11",
+    "@types/react-native-vector-icons": "^6.4.14",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "metro-react-native-babel-preset": "0.76.8"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Praveencena88"
+  },
+  "keywords": [
+    "react-native",
+    "react-js",
+    "ios",
+    "android",
+    "prevent",
+    "screenshot",
+    "screenshare",
+    "screen",
+    "recording",
+    "prevent",
+    "data",
+    "protection"
+  ],
+  "author": "Praveen Kumar B",
+  "license": "ISC"
+}
