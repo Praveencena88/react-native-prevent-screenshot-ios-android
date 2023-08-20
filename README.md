@@ -1,6 +1,6 @@
 # react-native-prevent-screenshot-ios-android
 
-This package is used to block taking screenshot, screen recording and screen sharing of specific screens for both Android and IOS apps
+This package allows user to block taking screenshot, screen recording and screen sharing of specific screens for both Android and IOS apps
 
 ## Installation
 
