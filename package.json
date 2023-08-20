@@ -1,6 +1,6 @@
 {
   "name": "react-native-prevent-screenshot-ios-android",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This package is used to block taking screenshot, screen recording and screen sharing of specific screens for both Android and IOS apps",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
